@@ -16,7 +16,7 @@ const randomQuotes = [
   {qoute: 'Leaders think and talk about the solutions. Followers think and talk about the problems.', author: '--Brian Tracy'},
 ];
 
-const randomizeIt = Math.floor(Math.random() * 10);
+const randomizeIt = Math.floor(Math.random() * 15);
 
 console.log(`\nMessage: ${randomQuotes[randomizeIt].qoute}`);
 
