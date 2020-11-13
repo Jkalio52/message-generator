@@ -5,12 +5,12 @@ Codecademy Message Generator Program
 
 ## Table of Contents
 
-* [General Info] (#general-info)
-* [Technologies] (#technologies)
+*[General Info] (#general-info)
+*[Technologies] (#technologies)
 * [Features] (#features)
 * [Status] (#status)
 
-##General Info
+## General Info
 
 This is a Codecademy's portfolio project that focused specifically on JavaScript's objects, arrays structures.
 
