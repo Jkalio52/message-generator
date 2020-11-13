@@ -5,8 +5,8 @@ Codecademy Message Generator Program
 
 ## Table of Contents
 
-*[General Info] (#general-info)
-*[Technologies] (#technologies)
+* [General Info](#general-info)
+* [Technologies] (#technologies)
 * [Features] (#features)
 * [Status] (#status)
 
